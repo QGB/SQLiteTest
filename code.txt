@@ -1,0 +1,111 @@
+/////////////////2014-06-25 02:20:51
+
+        /**TODO: 在show_main_menu() 中调用 add_info(),当i=0时 无法输入**/
+        if(i==0){
+            ypc[i]=sql_input_keyword();
+        }
+        /**临时修补代码 结束**/
+
+/////////////////2014-06-25 01:58:25
+//scanf("%s",&ycin);
+        //ycin= sql_input_keyword();
+        //sprintf(ysql,"[%s]-[%s]",pc,pcin);
+        //printf("ysql=[%s]\n",ysql_part);
+//        printf("pcin=[%s]\n",pcin);
+        //pcin=sql_input_keyword();
+        //sprintf(ysql,ysql,pc,pc);
+        //exit(8);
+        
+////////////////////2014-06-25 01:49:50
+    char *pc=sql_input_keyword();
+    printf("[%s]\n",pc);
+    exit(7);
+
+/////////////////////2014-06-24 22:59:57
+
+        //scanf("%s",&y2cin[i]);
+        //if(IS_TEST)printf("i=%d\n",i);
+        //continue;
+
+////////////////////2014-06-24 22:56:38
+y2cin[icols][50],
+///////////////////////////////////////2014-06-24 22:46:22
+
+    int i=0;
+    char *ypc[6];
+    for(i=0;i<6;i++){
+        printf("i=%d\n",i);
+
+        //continue;
+        ypc[i]=sql_input_keyword();
+    }
+    exit(5);
+
+/////////////////////////////2014年6月24日22:28:20
+printf("[%s]\n",sql_input_keyword());
+    //printf("%s\n",card_to_ord(-99));
+    exit(4);
+    
+///////////////////////////////////////////////2014年6月24日21:50:30
+
+    if(final_d==1||final_d==2||final_d==3){
+            sprintf(yc,"%d%s",ai,"th");
+            return yc;
+        }
+    
+    
+    
+    ending = {1: 'st', 2: 'nd', 3: 'rd'}
+    if final_digit in (1, 2, 3) and n%100 not in (11, 12, 13):
+        return '%s%s' % (n, ending[final_digit])
+    return '%sth' % n
+/////////////////////////////////////////////////
+//////////////////////////////////////////////////
+    //char pc[5]="12345";
+    //pc[2]='\0';
+    //puts(pc);
+    char yc[22]="select * from |" ;
+    printf(yc);
+    char *pc;
+    pc= strcat(yc,STABLE_NAME "12345");
+    printf(pc);
+///////////////////////////////////////2014年6月23日17:18:52
+
+    char pc[3][50];//={"1aa","2aa","3aa"};
+    char *pca[3];
+    int i=0;
+    for(i=0;i<3;i++){
+        pca[i]=pc[i];
+    }
+
+    //
+    scanf("%s",&pc[0]);
+    printf("%s\n",pc[0]);
+    printf("%s\n",pca[0]);
+    sqlite_save(3,pca);
+
+    exit(1);
+
+//////////////////2014-06-23 17:22:30
+    printf("%d\n",argc);
+    printf("%s\n",argv[0]);
+
+////////////////////////2014年6月23日18:56:37
+    char pc[];
+    sprintf(pc,"%d",0);
+    printf("%s\n",pc);
+    exit(2);
+////////////////////////////////2014年6月24日21:02:49
+    while(i<50){
+        c=getchar();
+        i++;
+        if(c=='\'')
+            printf("error:\'|%d\n",i);
+            continue;
+        if(c=='\n'){
+            break;
+        }
+
+        yc[i]=c;
+    }
+//////////////////////////////////////////////

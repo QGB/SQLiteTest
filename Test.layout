@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="set.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="136" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="sqlite3.c" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4818137" topLine="136297" />
+		</Cursor>
+	</File>
+	<File name="sqlite3.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8904" topLine="358" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="56" />
+			<Collapse line="72" />
+			<Collapse line="82" />
+			<Collapse line="113" />
+			<Collapse line="213" />
+			<Collapse line="229" />
+			<Collapse line="258" />
+			<Collapse line="266" />
+			<Collapse line="310" />
+			<Collapse line="317" />
+			<Collapse line="386" />
+			<Collapse line="431" />
+			<Collapse line="485" />
+			<Collapse line="515" />
+			<Collapse line="553" />
+			<Collapse line="566" />
+			<Collapse line="596" />
+			<Collapse line="608" />
+			<Collapse line="612" />
+			<Collapse line="703" />
+			<Collapse line="726" />
+		</Folding>
+	</File>
+	<File name="qgb.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="89" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2304" topLine="80" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

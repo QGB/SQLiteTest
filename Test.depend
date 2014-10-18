@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1346685418 source:d:\c\addressbook\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1404901763 source:d:\c\addressbook\main.c
+	"set.h"
+	"qgb.c"
+
+1346685418 d:\c\addressbook\sqlite3.h
+	<stdarg.h>
+
+1404709807 d:\c\addressbook\set.h
+	<windows.h>
+	<stdio.h>
+	"sqlite3.h"
+
+1404904013 d:\c\addressbook\qgb.c
+	<stdio.h>
+
